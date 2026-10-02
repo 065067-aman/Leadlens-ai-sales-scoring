@@ -1,0 +1,1001 @@
+lead_id,company_size,industry,lead_source,region,email_opens,content_downloads,demo_requested,sales_calls,days_since_last_activity,estimated_deal_value,converted
+L10001,Mid-Market,Education,Webinar,Bengaluru,1,1,1,3,26,568279,1
+L10002,SMB,SaaS,Webinar,Chennai,5,1,1,3,28,111023,1
+L10003,Enterprise,Healthcare,Partner,Delhi NCR,1,2,0,0,16,298055,1
+L10004,Mid-Market,Healthcare,Partner,Hyderabad,4,1,0,0,16,851313,1
+L10005,SMB,BFSI,Webinar,Chennai,2,2,0,2,21,160965,1
+L10006,Enterprise,SaaS,Referral,Kolkata,5,0,0,3,44,221852,0
+L10007,Mid-Market,Healthcare,Google Ads,Mumbai,3,0,1,4,0,465885,0
+L10008,Mid-Market,SaaS,Referral,Pune,2,0,0,0,22,741565,0
+L10009,SMB,BFSI,Google Ads,Mumbai,1,0,0,2,14,832553,1
+L10010,SMB,Retail,Webinar,Delhi NCR,4,0,1,3,24,602082,1
+L10011,SMB,Healthcare,Referral,Bengaluru,3,4,1,2,0,505178,0
+L10012,Enterprise,Healthcare,Google Ads,Kolkata,4,0,0,0,41,400981,0
+L10013,Mid-Market,SaaS,Website,Pune,4,1,0,2,20,67614,1
+L10014,Enterprise,Education,Webinar,Hyderabad,0,3,0,1,43,285847,1
+L10015,SMB,Retail,Referral,Mumbai,1,1,0,2,6,234379,0
+L10016,SMB,Manufacturing,Referral,Delhi NCR,6,0,0,0,26,81022,0
+L10017,Mid-Market,Healthcare,Google Ads,Mumbai,2,0,1,1,30,751451,0
+L10018,SMB,BFSI,LinkedIn,Mumbai,3,0,0,1,35,369545,0
+L10019,Enterprise,BFSI,Google Ads,Mumbai,7,1,0,0,0,521855,1
+L10020,Mid-Market,Healthcare,Webinar,Pune,1,0,0,1,28,220515,1
+L10021,Mid-Market,Manufacturing,Referral,Delhi NCR,5,2,0,3,6,601454,1
+L10022,SMB,Retail,Website,Delhi NCR,1,1,0,2,19,157514,1
+L10023,Enterprise,Retail,Referral,Hyderabad,2,1,0,5,2,685786,1
+L10024,Enterprise,Retail,LinkedIn,Bengaluru,4,1,1,1,2,745035,1
+L10025,Mid-Market,SaaS,Referral,Hyderabad,1,1,0,4,34,328644,1
+L10026,SMB,Healthcare,Google Ads,Delhi NCR,1,1,0,1,32,232202,0
+L10027,SMB,Retail,Website,Mumbai,4,0,0,2,40,785647,1
+L10028,SMB,Education,Webinar,Hyderabad,5,2,0,2,31,242579,0
+L10029,SMB,Retail,LinkedIn,Pune,2,0,1,3,26,198763,1
+L10030,Mid-Market,Healthcare,Partner,Bengaluru,1,2,0,0,5,356969,1
+L10031,Mid-Market,Retail,Webinar,Hyderabad,3,0,0,0,34,967402,0
+L10032,Enterprise,Manufacturing,LinkedIn,Hyderabad,5,1,0,1,10,476086,0
+L10033,SMB,SaaS,Google Ads,Mumbai,2,0,0,2,4,281106,0
+L10034,SMB,BFSI,Website,Mumbai,3,1,0,2,32,525869,1
+L10035,SMB,Education,Website,Bengaluru,5,2,1,1,26,364688,1
+L10036,SMB,Education,Partner,Delhi NCR,1,3,0,2,6,672932,1
+L10037,SMB,Retail,Webinar,Pune,2,0,0,2,24,452874,1
+L10038,SMB,SaaS,Website,Pune,0,0,0,2,31,598808,1
+L10039,SMB,Education,LinkedIn,Bengaluru,3,1,0,2,22,450415,1
+L10040,Mid-Market,Healthcare,LinkedIn,Bengaluru,3,0,0,3,32,494641,0
+L10041,SMB,Manufacturing,Referral,Bengaluru,7,1,1,0,22,460976,1
+L10042,Enterprise,Education,LinkedIn,Pune,4,3,0,2,15,409091,1
+L10043,Mid-Market,BFSI,LinkedIn,Chennai,7,2,1,2,10,964692,1
+L10044,SMB,BFSI,Google Ads,Delhi NCR,5,2,0,3,11,284141,1
+L10045,Enterprise,Manufacturing,LinkedIn,Bengaluru,4,0,0,3,36,810281,1
+L10046,Mid-Market,Education,Partner,Delhi NCR,3,1,1,3,16,717194,1
+L10047,SMB,Healthcare,Webinar,Hyderabad,2,2,0,1,32,539765,1
+L10048,SMB,Retail,Webinar,Mumbai,2,2,0,3,16,334563,1
+L10049,Mid-Market,BFSI,LinkedIn,Bengaluru,5,4,1,1,23,496731,1
+L10050,SMB,Retail,Webinar,Hyderabad,0,1,1,1,27,853341,1
+L10051,SMB,Manufacturing,Partner,Bengaluru,4,0,0,2,21,202396,1
+L10052,SMB,Manufacturing,LinkedIn,Bengaluru,4,1,0,0,33,596508,0
+L10053,Mid-Market,Healthcare,Webinar,Chennai,1,2,0,1,41,770729,0
+L10054,Mid-Market,Education,Referral,Chennai,3,2,1,1,38,643095,1
+L10055,Mid-Market,BFSI,Webinar,Delhi NCR,1,2,0,1,41,165550,1
+L10056,Mid-Market,Healthcare,Referral,Bengaluru,4,1,0,2,1,521070,1
+L10057,SMB,BFSI,Webinar,Chennai,5,2,0,1,34,203432,0
+L10058,Mid-Market,BFSI,Website,Hyderabad,4,1,0,1,32,930342,0
+L10059,SMB,Healthcare,Referral,Mumbai,4,3,0,1,18,367943,1
+L10060,SMB,Healthcare,LinkedIn,Pune,7,0,0,2,14,436055,0
+L10061,Mid-Market,Education,LinkedIn,Mumbai,1,0,0,1,2,861062,1
+L10062,SMB,Retail,LinkedIn,Delhi NCR,4,0,0,3,37,441294,0
+L10063,Mid-Market,SaaS,Referral,Pune,0,1,0,5,37,214091,0
+L10064,Mid-Market,BFSI,Website,Hyderabad,2,2,0,2,3,895689,1
+L10065,Mid-Market,Retail,Webinar,Chennai,2,0,0,2,26,656793,1
+L10066,Mid-Market,Retail,Google Ads,Bengaluru,3,1,0,1,24,614784,0
+L10067,Mid-Market,BFSI,Webinar,Chennai,4,1,0,0,7,98694,0
+L10068,SMB,Education,Webinar,Bengaluru,2,1,0,3,24,462919,1
+L10069,SMB,Manufacturing,Website,Chennai,4,0,0,1,36,472827,1
+L10070,SMB,Healthcare,Website,Delhi NCR,1,1,0,2,14,280597,1
+L10071,SMB,Manufacturing,Referral,Delhi NCR,4,0,0,0,32,575344,0
+L10072,SMB,Retail,Referral,Chennai,1,1,0,0,43,263918,0
+L10073,Enterprise,Healthcare,LinkedIn,Chennai,3,0,0,3,20,484168,1
+L10074,SMB,Healthcare,Webinar,Kolkata,2,0,0,1,4,806398,1
+L10075,SMB,BFSI,Google Ads,Bengaluru,3,0,0,1,13,741893,0
+L10076,SMB,Healthcare,Webinar,Delhi NCR,4,1,0,4,6,297479,1
+L10077,SMB,Healthcare,Website,Kolkata,6,2,0,2,15,227343,1
+L10078,Mid-Market,Healthcare,Webinar,Pune,5,1,0,2,28,30594,0
+L10079,Mid-Market,Manufacturing,LinkedIn,Mumbai,4,0,1,2,9,361913,1
+L10080,Mid-Market,SaaS,Referral,Chennai,0,0,0,1,23,43974,0
+L10081,Mid-Market,BFSI,Referral,Kolkata,4,1,0,0,44,150029,1
+L10082,SMB,SaaS,Webinar,Mumbai,2,2,0,0,11,978942,1
+L10083,Mid-Market,Manufacturing,LinkedIn,Chennai,4,1,0,1,39,859275,0
+L10084,SMB,BFSI,LinkedIn,Chennai,1,2,0,1,13,570841,1
+L10085,SMB,SaaS,Referral,Hyderabad,4,2,0,0,27,780179,0
+L10086,SMB,Retail,Referral,Pune,3,0,0,0,7,501799,0
+L10087,Mid-Market,BFSI,LinkedIn,Mumbai,2,1,1,1,12,611281,1
+L10088,SMB,Retail,LinkedIn,Kolkata,6,5,0,0,39,919929,1
+L10089,SMB,Manufacturing,LinkedIn,Kolkata,2,1,0,3,26,101645,1
+L10090,Mid-Market,SaaS,Referral,Kolkata,4,1,0,3,25,367895,1
+L10091,SMB,Education,Referral,Chennai,3,1,1,1,22,141058,1
+L10092,Mid-Market,Manufacturing,Referral,Delhi NCR,3,1,0,1,11,800122,1
+L10093,SMB,BFSI,Webinar,Bengaluru,1,1,0,1,41,827014,0
+L10094,SMB,Manufacturing,LinkedIn,Hyderabad,3,2,0,0,17,728764,1
+L10095,SMB,SaaS,Partner,Kolkata,5,1,0,0,0,618713,1
+L10096,Mid-Market,BFSI,Webinar,Hyderabad,3,1,0,1,40,490169,0
+L10097,SMB,Education,LinkedIn,Hyderabad,3,3,0,1,2,47916,0
+L10098,SMB,Education,LinkedIn,Mumbai,4,1,0,4,39,780266,1
+L10099,SMB,BFSI,LinkedIn,Chennai,3,3,0,3,11,896639,1
+L10100,Enterprise,Manufacturing,LinkedIn,Bengaluru,4,1,0,1,3,966633,1
+L10101,Enterprise,Education,Referral,Delhi NCR,1,2,0,1,9,358304,1
+L10102,Mid-Market,BFSI,Website,Kolkata,1,0,0,0,29,220592,0
+L10103,SMB,Manufacturing,Website,Mumbai,2,0,1,4,24,662645,0
+L10104,Enterprise,SaaS,Referral,Delhi NCR,5,0,1,2,6,42071,1
+L10105,Mid-Market,Education,Webinar,Delhi NCR,2,2,0,0,13,83757,1
+L10106,Mid-Market,Manufacturing,LinkedIn,Hyderabad,3,1,0,3,9,825918,1
+L10107,SMB,BFSI,Partner,Delhi NCR,2,4,0,0,29,957923,1
+L10108,SMB,SaaS,Referral,Chennai,1,0,1,0,38,418497,0
+L10109,SMB,Manufacturing,Partner,Hyderabad,3,2,0,2,11,520117,1
+L10110,Enterprise,Manufacturing,LinkedIn,Bengaluru,0,1,0,0,40,555792,0
+L10111,SMB,Manufacturing,Google Ads,Delhi NCR,1,0,0,1,18,160025,0
+L10112,SMB,BFSI,Webinar,Hyderabad,2,1,0,2,3,241900,1
+L10113,SMB,Education,Website,Mumbai,4,3,1,2,14,315978,1
+L10114,Mid-Market,Education,Partner,Kolkata,2,2,1,2,39,845744,1
+L10115,SMB,BFSI,Referral,Bengaluru,2,1,0,0,36,452172,0
+L10116,Enterprise,Manufacturing,Referral,Hyderabad,4,1,0,0,32,728176,1
+L10117,Mid-Market,Education,Google Ads,Delhi NCR,2,0,1,1,17,214588,1
+L10118,Mid-Market,Retail,Google Ads,Delhi NCR,1,2,0,2,34,954532,0
+L10119,SMB,Retail,Website,Mumbai,5,0,0,2,31,886349,1
+L10120,Mid-Market,BFSI,Partner,Delhi NCR,4,0,0,0,35,488370,1
+L10121,Mid-Market,BFSI,Google Ads,Chennai,3,1,0,3,25,244938,1
+L10122,Mid-Market,Education,Partner,Kolkata,4,1,0,1,22,977150,1
+L10123,SMB,Retail,Referral,Kolkata,5,3,0,0,43,812919,0
+L10124,SMB,Retail,Google Ads,Mumbai,2,2,1,1,42,523084,1
+L10125,SMB,BFSI,Referral,Chennai,1,0,1,1,24,285859,1
+L10126,Mid-Market,Manufacturing,Partner,Hyderabad,3,0,0,1,9,630886,0
+L10127,SMB,Manufacturing,Webinar,Delhi NCR,2,2,0,1,18,386109,1
+L10128,SMB,Retail,Partner,Delhi NCR,1,0,0,3,22,682274,0
+L10129,SMB,SaaS,Google Ads,Hyderabad,2,3,0,2,30,836651,0
+L10130,Mid-Market,Manufacturing,Webinar,Bengaluru,4,4,0,2,14,502527,1
+L10131,SMB,BFSI,Referral,Delhi NCR,5,2,1,3,2,71961,1
+L10132,Enterprise,Education,Referral,Kolkata,2,1,0,2,37,573710,1
+L10133,Mid-Market,Retail,Webinar,Chennai,3,2,0,2,42,862189,1
+L10134,SMB,Healthcare,Website,Hyderabad,2,0,1,1,3,242724,1
+L10135,Mid-Market,Healthcare,Webinar,Kolkata,4,1,1,0,14,960403,1
+L10136,SMB,BFSI,Website,Kolkata,2,1,0,4,19,378303,1
+L10137,Enterprise,Retail,Google Ads,Kolkata,3,2,0,4,34,692015,1
+L10138,Mid-Market,SaaS,Referral,Mumbai,11,2,0,1,34,709443,0
+L10139,Mid-Market,Retail,Referral,Kolkata,6,0,0,2,15,202527,1
+L10140,SMB,Healthcare,Referral,Hyderabad,1,1,0,2,14,63014,1
+L10141,Mid-Market,BFSI,Referral,Chennai,1,1,0,6,18,950051,0
+L10142,Mid-Market,Education,Referral,Kolkata,5,0,0,3,10,707902,1
+L10143,Enterprise,Education,Referral,Mumbai,0,1,0,0,19,640525,1
+L10144,Mid-Market,Retail,Google Ads,Hyderabad,9,2,0,3,11,321181,1
+L10145,SMB,Healthcare,Webinar,Delhi NCR,0,0,0,0,2,130389,0
+L10146,SMB,Healthcare,Google Ads,Mumbai,3,1,0,2,32,290039,0
+L10147,SMB,Manufacturing,Google Ads,Bengaluru,2,1,0,0,35,559032,0
+L10148,Mid-Market,Education,Partner,Chennai,3,0,0,2,12,701151,1
+L10149,SMB,Education,Partner,Kolkata,5,0,1,0,18,336070,1
+L10150,SMB,Education,Website,Bengaluru,2,0,0,2,18,234571,1
+L10151,Enterprise,Manufacturing,Webinar,Bengaluru,3,1,0,1,0,268279,1
+L10152,Enterprise,Manufacturing,LinkedIn,Hyderabad,3,1,0,2,24,962641,1
+L10153,SMB,Education,LinkedIn,Kolkata,5,2,1,2,20,639761,1
+L10154,Mid-Market,Retail,Webinar,Kolkata,7,1,0,1,42,990912,0
+L10155,SMB,BFSI,Website,Mumbai,4,1,0,3,16,31119,1
+L10156,Mid-Market,Healthcare,Partner,Mumbai,4,1,1,3,35,471647,1
+L10157,SMB,Healthcare,Webinar,Pune,3,2,0,2,17,470958,1
+L10158,Mid-Market,Retail,Partner,Bengaluru,4,0,0,2,8,416382,1
+L10159,Mid-Market,BFSI,Webinar,Mumbai,0,2,0,0,15,406794,0
+L10160,Mid-Market,Healthcare,Partner,Delhi NCR,3,1,1,1,39,102061,1
+L10161,SMB,BFSI,Website,Bengaluru,1,0,0,1,11,56368,0
+L10162,Enterprise,Manufacturing,Partner,Bengaluru,4,2,0,2,38,783763,1
+L10163,SMB,Healthcare,Website,Hyderabad,1,3,1,1,29,454496,1
+L10164,SMB,Education,LinkedIn,Mumbai,1,1,0,3,33,183655,1
+L10165,Mid-Market,Education,Website,Chennai,2,5,0,2,33,363850,1
+L10166,SMB,Education,Referral,Pune,2,2,0,3,23,934721,0
+L10167,Enterprise,Manufacturing,Webinar,Hyderabad,3,0,0,5,27,481001,1
+L10168,Mid-Market,Education,LinkedIn,Mumbai,3,2,0,2,3,990827,1
+L10169,SMB,Education,Webinar,Hyderabad,4,3,0,0,31,182466,1
+L10170,Enterprise,Education,Google Ads,Pune,3,1,1,3,32,144349,1
+L10171,SMB,SaaS,Google Ads,Bengaluru,5,0,0,0,4,574715,0
+L10172,Mid-Market,BFSI,Partner,Mumbai,4,0,0,1,23,690930,1
+L10173,SMB,Education,Referral,Hyderabad,5,0,0,1,22,981764,0
+L10174,Enterprise,BFSI,Referral,Bengaluru,4,0,0,2,13,479342,1
+L10175,SMB,Manufacturing,Partner,Bengaluru,0,1,0,3,2,220162,1
+L10176,SMB,BFSI,Google Ads,Bengaluru,3,0,0,1,0,552617,1
+L10177,SMB,SaaS,Google Ads,Bengaluru,3,3,0,2,9,324290,1
+L10178,Enterprise,Healthcare,LinkedIn,Chennai,2,0,0,1,10,200085,0
+L10179,Enterprise,Retail,LinkedIn,Hyderabad,1,3,0,1,9,111199,1
+L10180,Mid-Market,Healthcare,LinkedIn,Hyderabad,6,1,0,1,27,730432,1
+L10181,Enterprise,BFSI,LinkedIn,Pune,2,2,0,1,18,651695,1
+L10182,Enterprise,Manufacturing,LinkedIn,Bengaluru,2,0,0,4,5,187447,0
+L10183,Mid-Market,Retail,Webinar,Delhi NCR,4,0,0,1,3,569908,1
+L10184,SMB,Retail,Website,Chennai,5,0,0,2,29,888167,1
+L10185,Mid-Market,Retail,Google Ads,Delhi NCR,5,2,0,0,42,822635,1
+L10186,Mid-Market,Manufacturing,Partner,Pune,2,1,0,2,36,467625,1
+L10187,SMB,Manufacturing,Webinar,Mumbai,4,2,0,1,34,80850,1
+L10188,SMB,Manufacturing,Referral,Mumbai,4,4,1,1,14,643996,1
+L10189,Mid-Market,Healthcare,Website,Delhi NCR,4,1,0,3,31,528303,1
+L10190,SMB,Retail,Partner,Kolkata,1,1,0,1,3,923746,0
+L10191,Enterprise,Healthcare,Website,Hyderabad,3,0,0,2,7,564497,1
+L10192,SMB,Healthcare,Webinar,Bengaluru,2,0,0,1,6,744491,1
+L10193,SMB,Manufacturing,Webinar,Chennai,6,2,0,0,8,540227,1
+L10194,Enterprise,Manufacturing,LinkedIn,Delhi NCR,2,1,1,2,16,552326,1
+L10195,SMB,Retail,Webinar,Hyderabad,4,1,0,1,1,334499,1
+L10196,SMB,BFSI,LinkedIn,Hyderabad,2,0,1,0,36,417610,1
+L10197,Mid-Market,Manufacturing,LinkedIn,Hyderabad,4,3,0,2,32,313531,1
+L10198,Enterprise,Education,Webinar,Delhi NCR,4,1,1,3,28,475581,1
+L10199,SMB,Retail,Partner,Kolkata,4,2,1,0,7,952736,1
+L10200,SMB,Manufacturing,LinkedIn,Mumbai,5,1,1,1,39,358131,0
+L10201,Mid-Market,Healthcare,Partner,Pune,1,1,0,2,0,476678,1
+L10202,Enterprise,SaaS,Partner,Chennai,1,2,1,0,44,947529,1
+L10203,Mid-Market,SaaS,Webinar,Bengaluru,4,0,0,1,32,172436,1
+L10204,SMB,Healthcare,Website,Delhi NCR,4,1,0,0,9,271536,1
+L10205,SMB,Healthcare,LinkedIn,Bengaluru,3,2,0,4,8,505841,1
+L10206,SMB,BFSI,Webinar,Chennai,4,1,0,2,31,424112,0
+L10207,SMB,SaaS,Partner,Kolkata,4,0,0,2,36,357610,0
+L10208,Mid-Market,Education,Webinar,Kolkata,4,0,0,1,20,783768,1
+L10209,SMB,Manufacturing,Referral,Mumbai,4,3,0,0,2,511411,1
+L10210,Mid-Market,SaaS,LinkedIn,Pune,3,4,0,0,22,380233,1
+L10211,Mid-Market,BFSI,Partner,Mumbai,4,5,0,1,21,491991,1
+L10212,Mid-Market,BFSI,LinkedIn,Pune,4,3,1,1,14,889445,1
+L10213,SMB,Retail,Referral,Bengaluru,3,0,0,0,40,984352,0
+L10214,Mid-Market,SaaS,Partner,Pune,2,1,1,0,15,261995,1
+L10215,Mid-Market,SaaS,Google Ads,Pune,5,4,1,1,10,64181,0
+L10216,Mid-Market,Healthcare,LinkedIn,Kolkata,0,0,0,2,30,55561,0
+L10217,SMB,Healthcare,Website,Hyderabad,2,5,0,2,27,459266,1
+L10218,SMB,Education,Referral,Bengaluru,4,2,0,2,27,638032,1
+L10219,Enterprise,Manufacturing,Partner,Hyderabad,1,0,0,1,22,75021,0
+L10220,SMB,Manufacturing,Referral,Mumbai,6,0,0,3,14,520547,1
+L10221,SMB,Education,Webinar,Delhi NCR,2,0,0,2,11,414647,1
+L10222,Mid-Market,SaaS,LinkedIn,Hyderabad,4,1,0,1,5,934731,1
+L10223,Mid-Market,SaaS,Webinar,Chennai,2,1,0,0,8,613480,0
+L10224,Enterprise,Healthcare,Webinar,Hyderabad,5,2,0,0,26,437554,1
+L10225,SMB,Healthcare,Google Ads,Chennai,1,0,0,1,18,596980,0
+L10226,Enterprise,Retail,Webinar,Mumbai,1,4,0,1,33,157200,1
+L10227,SMB,Education,Google Ads,Hyderabad,5,1,1,2,36,488147,0
+L10228,Mid-Market,Education,Referral,Pune,2,1,0,0,25,346501,1
+L10229,Mid-Market,Manufacturing,Webinar,Bengaluru,3,1,0,1,4,201460,1
+L10230,SMB,Education,Partner,Delhi NCR,3,0,0,2,0,408381,1
+L10231,SMB,Retail,Partner,Delhi NCR,1,0,0,0,10,648017,0
+L10232,SMB,SaaS,LinkedIn,Kolkata,2,1,0,3,12,593553,1
+L10233,Enterprise,Education,Webinar,Pune,5,1,0,2,3,964851,1
+L10234,Mid-Market,SaaS,Website,Mumbai,3,1,0,2,35,292637,0
+L10235,Enterprise,Retail,Google Ads,Mumbai,2,2,1,1,16,707178,0
+L10236,Mid-Market,BFSI,Google Ads,Delhi NCR,5,0,0,1,33,561555,0
+L10237,SMB,Manufacturing,Referral,Kolkata,2,0,0,1,9,876981,0
+L10238,Mid-Market,Manufacturing,Partner,Delhi NCR,6,1,1,2,0,910344,1
+L10239,SMB,Healthcare,Partner,Chennai,6,2,0,1,6,714825,1
+L10240,SMB,Education,Website,Mumbai,4,1,1,2,21,438137,1
+L10241,Enterprise,Manufacturing,LinkedIn,Bengaluru,4,0,0,3,21,545061,1
+L10242,Mid-Market,Retail,LinkedIn,Mumbai,1,0,0,1,19,660280,1
+L10243,SMB,Healthcare,Partner,Chennai,6,0,0,4,43,810753,1
+L10244,Mid-Market,SaaS,Google Ads,Delhi NCR,2,0,0,2,29,248176,1
+L10245,Mid-Market,BFSI,Webinar,Bengaluru,0,3,0,4,32,876160,1
+L10246,Enterprise,BFSI,Webinar,Mumbai,7,2,1,1,5,806293,1
+L10247,Mid-Market,Retail,Webinar,Mumbai,3,1,0,1,20,110954,1
+L10248,SMB,Manufacturing,Website,Mumbai,1,2,1,1,27,287928,1
+L10249,SMB,SaaS,Website,Kolkata,2,1,0,0,26,254912,0
+L10250,SMB,Healthcare,Referral,Bengaluru,3,0,0,0,42,590307,0
+L10251,Mid-Market,Retail,Referral,Bengaluru,2,1,1,1,21,228416,1
+L10252,Enterprise,Retail,Webinar,Bengaluru,9,0,1,0,16,317741,1
+L10253,SMB,Manufacturing,Website,Kolkata,3,0,0,0,42,209447,0
+L10254,SMB,Retail,Referral,Bengaluru,3,4,0,2,15,90717,1
+L10255,SMB,Manufacturing,LinkedIn,Bengaluru,3,1,0,1,25,472875,1
+L10256,Mid-Market,BFSI,LinkedIn,Bengaluru,2,1,0,0,1,336671,1
+L10257,Mid-Market,BFSI,LinkedIn,Bengaluru,5,3,1,1,7,516904,1
+L10258,SMB,Retail,LinkedIn,Delhi NCR,2,0,0,0,2,231729,1
+L10259,SMB,SaaS,Google Ads,Pune,4,1,0,0,18,304210,1
+L10260,Mid-Market,Education,Referral,Delhi NCR,3,0,0,2,41,895356,0
+L10261,SMB,SaaS,Referral,Mumbai,0,3,0,3,3,809902,0
+L10262,Enterprise,Education,Referral,Mumbai,0,1,0,4,43,284508,0
+L10263,SMB,SaaS,Webinar,Bengaluru,4,0,0,2,39,182739,0
+L10264,SMB,Retail,Partner,Chennai,4,2,0,0,0,975062,1
+L10265,Enterprise,SaaS,Google Ads,Pune,6,1,1,1,0,688848,1
+L10266,SMB,SaaS,Google Ads,Kolkata,2,1,1,3,40,505037,1
+L10267,SMB,BFSI,Webinar,Bengaluru,3,2,0,3,26,706901,0
+L10268,SMB,BFSI,Webinar,Kolkata,6,2,0,0,7,240538,1
+L10269,SMB,SaaS,Website,Delhi NCR,3,0,1,0,42,442428,1
+L10270,SMB,Education,Partner,Hyderabad,2,2,1,0,25,406560,1
+L10271,SMB,Manufacturing,Website,Chennai,1,2,1,1,28,727849,0
+L10272,SMB,Manufacturing,Referral,Hyderabad,0,0,0,0,30,203845,0
+L10273,SMB,Manufacturing,Google Ads,Kolkata,4,0,0,1,9,501863,0
+L10274,Mid-Market,Healthcare,Referral,Bengaluru,7,2,0,0,16,837841,1
+L10275,Mid-Market,Manufacturing,LinkedIn,Delhi NCR,3,2,0,3,5,216420,0
+L10276,SMB,Healthcare,Partner,Chennai,4,1,0,1,23,141970,0
+L10277,SMB,Manufacturing,Website,Delhi NCR,4,3,0,3,44,825685,1
+L10278,Mid-Market,SaaS,LinkedIn,Chennai,7,1,0,2,28,876689,1
+L10279,Enterprise,Healthcare,Partner,Chennai,2,1,0,1,31,444802,1
+L10280,Enterprise,BFSI,Webinar,Chennai,3,2,0,2,8,69769,1
+L10281,SMB,BFSI,Website,Hyderabad,2,1,0,0,24,552175,0
+L10282,SMB,Healthcare,Webinar,Kolkata,4,2,0,2,44,317117,1
+L10283,SMB,Manufacturing,Partner,Mumbai,2,1,0,0,3,597742,0
+L10284,SMB,BFSI,Website,Hyderabad,5,3,1,1,9,161389,1
+L10285,Mid-Market,BFSI,Referral,Delhi NCR,1,3,0,2,32,810024,1
+L10286,SMB,BFSI,Referral,Chennai,4,0,0,1,0,693133,0
+L10287,SMB,Education,Website,Pune,1,0,0,0,9,654090,0
+L10288,SMB,BFSI,LinkedIn,Chennai,3,2,0,1,42,524513,0
+L10289,Mid-Market,Education,LinkedIn,Chennai,2,0,0,2,0,239709,0
+L10290,SMB,Healthcare,LinkedIn,Bengaluru,5,1,0,2,19,940856,1
+L10291,Enterprise,Healthcare,Referral,Delhi NCR,2,1,1,2,14,284133,1
+L10292,SMB,Manufacturing,Referral,Kolkata,4,0,0,1,17,382026,0
+L10293,Enterprise,Manufacturing,LinkedIn,Hyderabad,1,2,1,1,11,928109,1
+L10294,SMB,BFSI,LinkedIn,Delhi NCR,2,1,0,3,12,64730,0
+L10295,Enterprise,BFSI,LinkedIn,Kolkata,3,2,0,1,34,146968,0
+L10296,Enterprise,BFSI,Webinar,Kolkata,2,1,0,1,1,767617,1
+L10297,Enterprise,Manufacturing,LinkedIn,Hyderabad,2,1,0,2,5,383760,1
+L10298,Mid-Market,Healthcare,Partner,Chennai,4,1,1,5,11,590013,1
+L10299,Mid-Market,Manufacturing,Google Ads,Delhi NCR,3,1,0,1,37,591021,0
+L10300,Mid-Market,Education,Webinar,Delhi NCR,1,1,0,1,17,831749,1
+L10301,Mid-Market,Manufacturing,Google Ads,Mumbai,3,1,0,3,1,629778,1
+L10302,SMB,SaaS,LinkedIn,Pune,3,0,1,1,23,440485,0
+L10303,Mid-Market,Retail,Google Ads,Delhi NCR,5,1,0,2,28,560523,0
+L10304,Mid-Market,Education,LinkedIn,Delhi NCR,3,1,0,2,20,744726,0
+L10305,Enterprise,Education,Website,Pune,5,3,0,0,3,394634,1
+L10306,SMB,SaaS,LinkedIn,Chennai,4,1,0,1,39,191789,0
+L10307,SMB,Manufacturing,LinkedIn,Chennai,2,2,0,0,38,499150,0
+L10308,Mid-Market,SaaS,Website,Chennai,3,1,0,1,41,999538,0
+L10309,SMB,Manufacturing,Website,Chennai,0,2,1,1,43,134353,1
+L10310,SMB,Retail,Partner,Pune,3,3,0,2,14,194305,1
+L10311,SMB,Manufacturing,Google Ads,Hyderabad,1,2,0,2,18,995224,1
+L10312,SMB,SaaS,Referral,Chennai,2,1,0,2,43,834055,1
+L10313,SMB,Retail,Partner,Bengaluru,3,2,0,1,20,139105,0
+L10314,SMB,SaaS,LinkedIn,Delhi NCR,0,1,0,3,38,232127,0
+L10315,SMB,Manufacturing,Referral,Chennai,0,3,1,0,29,698552,1
+L10316,SMB,SaaS,Partner,Mumbai,2,0,0,1,41,787945,0
+L10317,SMB,SaaS,Google Ads,Kolkata,2,2,0,4,0,740601,1
+L10318,Mid-Market,Healthcare,Referral,Bengaluru,0,1,1,0,31,864721,1
+L10319,SMB,Education,LinkedIn,Chennai,1,1,0,2,36,519088,0
+L10320,Enterprise,BFSI,Website,Delhi NCR,1,1,0,0,8,879724,0
+L10321,Enterprise,SaaS,Website,Pune,7,0,0,1,33,606104,1
+L10322,Mid-Market,SaaS,Website,Hyderabad,1,2,0,1,8,488825,1
+L10323,SMB,Healthcare,Webinar,Hyderabad,2,2,0,1,40,645525,1
+L10324,Mid-Market,Retail,Google Ads,Mumbai,4,0,1,2,40,443092,1
+L10325,Enterprise,BFSI,Referral,Kolkata,2,2,1,5,0,616233,1
+L10326,Mid-Market,BFSI,Webinar,Bengaluru,3,2,0,1,22,837946,1
+L10327,Mid-Market,Healthcare,Website,Chennai,6,1,1,3,17,959244,1
+L10328,Mid-Market,Manufacturing,LinkedIn,Bengaluru,3,3,0,2,40,590001,1
+L10329,Mid-Market,SaaS,Referral,Delhi NCR,1,1,1,2,14,30588,1
+L10330,SMB,SaaS,Partner,Kolkata,2,0,1,2,32,630744,1
+L10331,Mid-Market,SaaS,Google Ads,Mumbai,1,0,1,1,5,270600,1
+L10332,SMB,Education,Partner,Mumbai,5,0,1,1,9,255165,1
+L10333,Mid-Market,Manufacturing,LinkedIn,Kolkata,1,1,1,0,44,884173,0
+L10334,Enterprise,BFSI,Partner,Kolkata,5,0,0,3,17,460003,1
+L10335,SMB,Retail,Website,Kolkata,4,1,0,2,34,795654,1
+L10336,Mid-Market,Retail,LinkedIn,Bengaluru,3,0,0,1,43,385212,0
+L10337,SMB,Healthcare,Google Ads,Chennai,6,0,0,1,43,616667,0
+L10338,Mid-Market,BFSI,Website,Bengaluru,5,0,0,1,0,673688,1
+L10339,SMB,SaaS,Partner,Chennai,2,3,1,0,10,895925,1
+L10340,Enterprise,SaaS,Partner,Hyderabad,1,2,0,0,32,216571,1
+L10341,SMB,Healthcare,Google Ads,Delhi NCR,2,1,1,0,41,572188,0
+L10342,Enterprise,Healthcare,LinkedIn,Bengaluru,11,1,0,3,44,420608,0
+L10343,Mid-Market,Retail,Website,Hyderabad,7,0,1,1,32,477233,1
+L10344,Mid-Market,BFSI,Google Ads,Mumbai,3,1,1,1,4,852513,1
+L10345,Mid-Market,Retail,Google Ads,Bengaluru,2,2,0,1,33,157427,0
+L10346,Mid-Market,Manufacturing,Webinar,Hyderabad,1,0,0,0,12,557784,0
+L10347,Enterprise,Manufacturing,Google Ads,Delhi NCR,4,1,0,1,36,403136,1
+L10348,SMB,BFSI,Website,Mumbai,1,3,1,0,24,898642,1
+L10349,Mid-Market,Manufacturing,Website,Chennai,7,2,1,1,8,236006,1
+L10350,SMB,Retail,Webinar,Bengaluru,1,0,0,1,37,251714,0
+L10351,Mid-Market,Retail,Website,Pune,5,0,0,2,44,113576,1
+L10352,SMB,BFSI,Partner,Hyderabad,1,2,0,2,22,453905,0
+L10353,Mid-Market,BFSI,Website,Hyderabad,3,2,0,2,36,35543,1
+L10354,Mid-Market,Healthcare,Webinar,Bengaluru,1,0,1,1,2,512905,1
+L10355,SMB,Manufacturing,Partner,Hyderabad,5,3,0,4,12,242992,1
+L10356,Mid-Market,Healthcare,Referral,Chennai,1,3,1,3,5,415553,1
+L10357,Mid-Market,Healthcare,Website,Kolkata,3,3,1,1,12,615050,1
+L10358,Mid-Market,Manufacturing,Partner,Mumbai,4,2,1,3,16,692381,0
+L10359,Mid-Market,Retail,LinkedIn,Pune,2,1,0,1,19,84706,1
+L10360,Mid-Market,Manufacturing,Google Ads,Kolkata,2,0,0,1,14,170001,0
+L10361,Enterprise,Retail,Partner,Delhi NCR,4,1,1,1,24,334824,0
+L10362,SMB,BFSI,Webinar,Chennai,1,0,0,2,9,531415,0
+L10363,SMB,Education,Website,Hyderabad,2,2,1,2,15,886422,1
+L10364,SMB,SaaS,Webinar,Kolkata,3,1,0,2,37,160303,0
+L10365,Mid-Market,BFSI,Website,Pune,4,1,0,2,25,91177,0
+L10366,SMB,SaaS,Webinar,Chennai,2,1,1,2,1,638467,0
+L10367,Mid-Market,Healthcare,Google Ads,Mumbai,3,1,1,1,14,979413,1
+L10368,Mid-Market,Manufacturing,LinkedIn,Delhi NCR,4,1,0,2,37,834491,0
+L10369,SMB,SaaS,Referral,Kolkata,1,0,0,1,8,576306,1
+L10370,Enterprise,Manufacturing,Website,Hyderabad,5,0,0,2,41,44497,0
+L10371,Mid-Market,SaaS,Partner,Hyderabad,3,1,0,1,13,586798,0
+L10372,SMB,BFSI,LinkedIn,Mumbai,4,0,0,3,28,470512,1
+L10373,SMB,SaaS,LinkedIn,Mumbai,3,0,0,3,21,460777,1
+L10374,SMB,Healthcare,Google Ads,Chennai,2,3,0,1,28,505386,0
+L10375,SMB,BFSI,Webinar,Bengaluru,1,2,0,0,35,572481,0
+L10376,SMB,Education,Google Ads,Pune,3,2,0,1,6,727247,1
+L10377,Enterprise,Education,Google Ads,Bengaluru,4,1,0,5,15,212320,1
+L10378,SMB,SaaS,Google Ads,Mumbai,2,3,0,1,25,97851,0
+L10379,SMB,Education,Partner,Mumbai,3,2,0,0,11,75146,0
+L10380,Mid-Market,Retail,Referral,Kolkata,2,4,0,2,16,420870,1
+L10381,Mid-Market,Manufacturing,Webinar,Kolkata,5,0,0,2,39,520244,1
+L10382,Enterprise,Healthcare,Webinar,Delhi NCR,1,0,0,1,10,790844,1
+L10383,Mid-Market,Education,Partner,Bengaluru,1,0,0,2,8,447628,1
+L10384,SMB,Healthcare,Partner,Hyderabad,0,2,1,0,26,543840,0
+L10385,SMB,Manufacturing,Webinar,Bengaluru,7,1,1,1,4,977303,1
+L10386,Enterprise,Education,LinkedIn,Chennai,3,1,1,2,0,756100,1
+L10387,Mid-Market,Education,Webinar,Mumbai,3,1,1,1,39,698644,1
+L10388,Enterprise,Education,Webinar,Delhi NCR,6,2,0,2,12,379909,1
+L10389,SMB,Education,LinkedIn,Bengaluru,3,2,1,2,5,173394,1
+L10390,Enterprise,Education,Webinar,Pune,0,2,0,0,29,922085,1
+L10391,Mid-Market,Healthcare,LinkedIn,Mumbai,2,2,1,0,21,564654,1
+L10392,SMB,Manufacturing,Google Ads,Chennai,1,0,1,2,20,100411,1
+L10393,Mid-Market,Retail,Webinar,Delhi NCR,6,1,1,1,19,495231,1
+L10394,Mid-Market,Manufacturing,LinkedIn,Delhi NCR,6,0,0,1,6,113885,1
+L10395,SMB,Healthcare,Referral,Hyderabad,4,1,0,2,38,981787,1
+L10396,SMB,Retail,Webinar,Hyderabad,1,0,0,1,0,540273,0
+L10397,Enterprise,Education,Referral,Bengaluru,4,1,0,1,21,790344,1
+L10398,SMB,Manufacturing,Partner,Mumbai,3,2,1,1,12,484053,1
+L10399,SMB,Manufacturing,Website,Delhi NCR,1,0,0,0,28,44240,0
+L10400,SMB,BFSI,Webinar,Pune,3,1,0,3,24,647505,1
+L10401,SMB,SaaS,Webinar,Bengaluru,3,2,0,0,17,661783,1
+L10402,Enterprise,Retail,Partner,Delhi NCR,2,2,0,2,24,248329,0
+L10403,Mid-Market,BFSI,Website,Bengaluru,5,2,0,2,10,723541,1
+L10404,SMB,Retail,Partner,Kolkata,5,0,0,2,5,245377,0
+L10405,Enterprise,Healthcare,Referral,Mumbai,4,0,0,2,40,699283,0
+L10406,Enterprise,BFSI,Referral,Kolkata,2,1,0,1,27,755381,1
+L10407,SMB,Healthcare,Referral,Mumbai,4,2,0,4,29,159011,1
+L10408,Enterprise,BFSI,Google Ads,Mumbai,0,1,0,1,44,309471,1
+L10409,SMB,Healthcare,Google Ads,Mumbai,3,2,0,0,40,184220,0
+L10410,Enterprise,SaaS,Referral,Bengaluru,1,2,0,1,26,734109,0
+L10411,Mid-Market,Retail,Website,Delhi NCR,1,1,0,0,35,254666,0
+L10412,Mid-Market,SaaS,Partner,Pune,5,4,0,1,23,649689,1
+L10413,SMB,Education,LinkedIn,Bengaluru,1,1,0,3,10,432139,0
+L10414,Enterprise,Retail,Website,Chennai,5,1,0,3,28,106243,0
+L10415,SMB,Healthcare,Google Ads,Hyderabad,5,0,1,0,41,885632,0
+L10416,SMB,Healthcare,Referral,Hyderabad,5,0,0,1,39,718351,0
+L10417,SMB,Retail,Google Ads,Hyderabad,3,0,1,5,22,280098,1
+L10418,Mid-Market,Manufacturing,Partner,Mumbai,7,0,0,1,42,882527,1
+L10419,SMB,Manufacturing,Website,Pune,3,0,0,3,8,716116,0
+L10420,Enterprise,Healthcare,LinkedIn,Delhi NCR,2,2,1,2,1,821230,1
+L10421,Mid-Market,Manufacturing,Google Ads,Chennai,2,2,0,2,18,198669,1
+L10422,SMB,BFSI,Webinar,Kolkata,4,1,1,0,9,33640,1
+L10423,SMB,SaaS,Google Ads,Chennai,4,1,1,1,43,85258,1
+L10424,SMB,BFSI,Referral,Hyderabad,3,3,0,3,5,551221,1
+L10425,Mid-Market,Healthcare,Google Ads,Bengaluru,1,2,1,0,24,792005,1
+L10426,Mid-Market,Retail,Partner,Kolkata,5,0,1,1,34,915503,1
+L10427,SMB,SaaS,Referral,Mumbai,1,1,0,2,4,961946,0
+L10428,Enterprise,Healthcare,Partner,Hyderabad,4,1,0,2,2,608757,1
+L10429,SMB,BFSI,Webinar,Chennai,3,3,0,0,24,640475,0
+L10430,Mid-Market,Manufacturing,LinkedIn,Kolkata,1,2,1,5,40,308067,1
+L10431,Enterprise,SaaS,LinkedIn,Kolkata,2,1,1,1,0,26129,1
+L10432,Mid-Market,Retail,Webinar,Delhi NCR,4,2,1,3,0,214681,0
+L10433,Mid-Market,SaaS,LinkedIn,Kolkata,1,6,0,1,41,79172,1
+L10434,Enterprise,Manufacturing,Referral,Delhi NCR,1,1,0,2,27,692823,1
+L10435,SMB,Healthcare,LinkedIn,Pune,8,0,0,0,31,515530,0
+L10436,SMB,Retail,Google Ads,Kolkata,2,0,0,2,12,776972,1
+L10437,SMB,Retail,LinkedIn,Pune,2,1,0,2,14,169380,1
+L10438,Mid-Market,BFSI,Google Ads,Kolkata,2,0,0,0,21,914770,0
+L10439,Mid-Market,Education,Partner,Bengaluru,3,0,0,4,9,726550,1
+L10440,Mid-Market,SaaS,Webinar,Bengaluru,0,3,0,3,19,908073,1
+L10441,Enterprise,Healthcare,Partner,Bengaluru,4,0,0,1,42,657236,1
+L10442,SMB,SaaS,Website,Bengaluru,2,1,0,3,33,355798,0
+L10443,Mid-Market,SaaS,Referral,Pune,1,3,0,0,39,635520,1
+L10444,SMB,Manufacturing,LinkedIn,Hyderabad,6,0,0,3,22,613780,1
+L10445,SMB,Retail,Partner,Chennai,2,1,1,1,35,201401,0
+L10446,Mid-Market,Education,Webinar,Bengaluru,5,2,0,2,18,123981,1
+L10447,Enterprise,BFSI,LinkedIn,Bengaluru,4,0,0,2,27,659013,1
+L10448,Mid-Market,Retail,Google Ads,Mumbai,5,1,0,0,32,117100,0
+L10449,SMB,BFSI,Google Ads,Hyderabad,0,3,0,2,37,122830,1
+L10450,Mid-Market,Manufacturing,Referral,Kolkata,3,0,0,1,41,94681,0
+L10451,SMB,Education,Referral,Kolkata,3,3,0,2,4,631604,1
+L10452,Enterprise,Education,Website,Mumbai,4,1,0,1,35,928965,1
+L10453,Mid-Market,SaaS,Referral,Hyderabad,5,2,0,1,31,509592,1
+L10454,SMB,Healthcare,Referral,Pune,4,1,0,1,33,173621,0
+L10455,SMB,BFSI,Webinar,Pune,3,0,0,2,0,524847,0
+L10456,SMB,Healthcare,Partner,Delhi NCR,4,0,0,1,21,495268,0
+L10457,Enterprise,Education,Webinar,Pune,1,2,0,1,43,603526,0
+L10458,SMB,Education,Website,Delhi NCR,5,0,0,4,40,447245,0
+L10459,Mid-Market,Healthcare,Partner,Delhi NCR,2,0,0,1,10,543809,0
+L10460,Mid-Market,SaaS,Referral,Pune,2,0,0,2,21,341651,1
+L10461,Mid-Market,Healthcare,Referral,Delhi NCR,3,1,0,3,38,908510,1
+L10462,SMB,Manufacturing,Partner,Bengaluru,2,0,0,2,41,549287,1
+L10463,Enterprise,Healthcare,Partner,Pune,3,0,0,1,14,328011,1
+L10464,SMB,Retail,Website,Pune,3,2,0,2,36,27721,0
+L10465,Mid-Market,Healthcare,Referral,Hyderabad,5,2,0,4,37,686743,1
+L10466,Mid-Market,Manufacturing,Webinar,Delhi NCR,3,2,0,2,6,395645,1
+L10467,Mid-Market,Manufacturing,Google Ads,Chennai,4,3,0,1,1,267785,1
+L10468,Enterprise,BFSI,LinkedIn,Kolkata,2,2,0,3,2,492360,1
+L10469,SMB,SaaS,Google Ads,Kolkata,4,0,0,4,6,497991,1
+L10470,Mid-Market,Manufacturing,Partner,Chennai,1,0,0,0,33,808221,1
+L10471,SMB,Education,LinkedIn,Bengaluru,1,2,1,0,17,554010,1
+L10472,SMB,SaaS,Webinar,Kolkata,5,2,0,2,30,708439,0
+L10473,SMB,Healthcare,Webinar,Hyderabad,2,0,0,1,4,655911,0
+L10474,SMB,Manufacturing,Partner,Delhi NCR,0,0,0,2,27,853517,0
+L10475,SMB,SaaS,LinkedIn,Chennai,4,1,1,0,33,31054,0
+L10476,SMB,Healthcare,LinkedIn,Bengaluru,2,0,0,2,43,391890,0
+L10477,SMB,Retail,Google Ads,Kolkata,5,2,1,2,14,722517,1
+L10478,Mid-Market,Manufacturing,Google Ads,Bengaluru,3,3,0,3,24,162382,1
+L10479,Mid-Market,SaaS,Referral,Kolkata,3,0,0,0,21,455819,0
+L10480,SMB,SaaS,Webinar,Hyderabad,7,0,0,3,15,416030,1
+L10481,SMB,Retail,Webinar,Hyderabad,5,0,1,0,28,810498,0
+L10482,SMB,Education,LinkedIn,Bengaluru,2,2,1,1,25,963983,1
+L10483,Mid-Market,Manufacturing,Webinar,Chennai,4,1,1,4,37,128674,1
+L10484,SMB,Manufacturing,LinkedIn,Delhi NCR,3,0,0,1,1,233969,0
+L10485,SMB,Healthcare,Referral,Hyderabad,4,0,0,2,9,779855,0
+L10486,SMB,Healthcare,Website,Bengaluru,7,1,0,0,26,195386,0
+L10487,SMB,Manufacturing,Referral,Hyderabad,4,1,0,3,25,509527,0
+L10488,SMB,SaaS,Partner,Mumbai,4,1,0,5,40,945728,0
+L10489,Mid-Market,Retail,Referral,Pune,7,1,1,4,30,975916,1
+L10490,Mid-Market,Healthcare,Webinar,Bengaluru,0,1,0,2,0,951175,1
+L10491,Mid-Market,Healthcare,Website,Mumbai,4,0,0,1,22,156040,0
+L10492,Mid-Market,Manufacturing,Google Ads,Mumbai,4,1,0,2,38,170505,0
+L10493,Mid-Market,Education,Referral,Pune,4,1,0,1,39,196615,1
+L10494,SMB,Retail,Webinar,Mumbai,3,1,0,6,36,775216,1
+L10495,Mid-Market,Healthcare,Partner,Bengaluru,4,3,1,0,21,199551,1
+L10496,Mid-Market,Manufacturing,Google Ads,Pune,3,1,0,1,4,443998,0
+L10497,SMB,BFSI,Website,Bengaluru,5,1,0,4,9,822903,1
+L10498,Mid-Market,Education,Referral,Bengaluru,1,2,0,1,38,504910,0
+L10499,SMB,SaaS,Website,Mumbai,3,0,0,1,15,942081,1
+L10500,Mid-Market,Education,Referral,Bengaluru,1,1,0,2,34,511220,0
+L10501,Mid-Market,BFSI,Website,Pune,2,1,0,1,1,395257,0
+L10502,Enterprise,SaaS,Google Ads,Hyderabad,4,2,0,0,22,969162,1
+L10503,Enterprise,BFSI,LinkedIn,Kolkata,0,0,0,0,42,558374,0
+L10504,Mid-Market,SaaS,LinkedIn,Chennai,1,1,1,1,11,205044,1
+L10505,Mid-Market,SaaS,Website,Delhi NCR,6,0,0,3,1,643595,1
+L10506,Mid-Market,SaaS,Partner,Bengaluru,5,0,0,0,12,778737,1
+L10507,SMB,Healthcare,Partner,Bengaluru,6,1,1,1,2,842516,1
+L10508,Enterprise,Retail,Webinar,Pune,1,2,0,1,27,30532,0
+L10509,Mid-Market,Healthcare,Website,Mumbai,2,1,1,2,8,130674,1
+L10510,SMB,SaaS,Referral,Kolkata,4,3,1,2,11,637894,1
+L10511,SMB,Manufacturing,Partner,Bengaluru,3,1,1,1,26,748363,1
+L10512,Enterprise,Education,Google Ads,Hyderabad,1,1,0,0,14,661361,1
+L10513,SMB,Education,Website,Delhi NCR,3,2,0,1,29,398259,0
+L10514,SMB,BFSI,Website,Kolkata,4,1,0,1,41,759863,0
+L10515,SMB,SaaS,LinkedIn,Kolkata,2,0,0,4,41,589715,0
+L10516,SMB,BFSI,Partner,Chennai,1,2,1,1,32,927813,0
+L10517,SMB,BFSI,LinkedIn,Bengaluru,2,1,0,2,43,383483,0
+L10518,Mid-Market,Retail,Partner,Delhi NCR,5,1,1,2,33,759989,1
+L10519,SMB,SaaS,Webinar,Pune,4,4,0,3,3,165182,0
+L10520,Enterprise,Education,Partner,Hyderabad,3,3,0,2,43,738840,1
+L10521,Enterprise,Healthcare,Webinar,Kolkata,4,1,0,1,25,738362,1
+L10522,SMB,SaaS,LinkedIn,Pune,3,3,1,0,0,272442,1
+L10523,SMB,Manufacturing,Webinar,Hyderabad,2,0,0,0,27,85114,1
+L10524,Mid-Market,Healthcare,LinkedIn,Kolkata,0,3,1,1,11,993018,1
+L10525,SMB,SaaS,LinkedIn,Chennai,5,2,0,2,24,99596,1
+L10526,SMB,Manufacturing,LinkedIn,Hyderabad,1,0,1,1,29,481698,0
+L10527,Enterprise,Healthcare,Website,Delhi NCR,4,1,0,3,1,26090,1
+L10528,Enterprise,Education,Website,Delhi NCR,3,2,1,1,19,432013,1
+L10529,Mid-Market,SaaS,LinkedIn,Hyderabad,1,0,0,4,2,825436,0
+L10530,SMB,Retail,Website,Hyderabad,3,4,0,2,5,514330,1
+L10531,Mid-Market,Education,Referral,Delhi NCR,2,2,1,0,9,258748,1
+L10532,Mid-Market,BFSI,Website,Delhi NCR,4,0,0,1,35,409205,0
+L10533,SMB,Education,Website,Pune,3,0,0,2,18,115036,1
+L10534,Mid-Market,Manufacturing,Partner,Chennai,3,1,1,2,2,603796,1
+L10535,SMB,BFSI,Website,Delhi NCR,2,3,0,1,33,29001,0
+L10536,SMB,Education,Website,Hyderabad,3,1,1,1,24,365883,0
+L10537,Mid-Market,Manufacturing,Website,Delhi NCR,2,2,0,0,6,84182,0
+L10538,SMB,Healthcare,Website,Chennai,7,1,1,1,25,258946,1
+L10539,SMB,Retail,Google Ads,Chennai,1,1,0,1,11,90747,0
+L10540,Enterprise,Healthcare,Webinar,Kolkata,1,2,0,2,28,929795,1
+L10541,Enterprise,Manufacturing,Webinar,Pune,1,1,1,1,42,777728,0
+L10542,Mid-Market,Education,Google Ads,Pune,5,1,0,1,14,929632,1
+L10543,Enterprise,Education,Website,Kolkata,4,1,0,2,33,691001,1
+L10544,Enterprise,Healthcare,Webinar,Pune,4,1,0,3,1,508839,1
+L10545,SMB,BFSI,Website,Hyderabad,0,1,0,2,18,194696,0
+L10546,SMB,Healthcare,Google Ads,Chennai,5,2,0,0,40,963093,0
+L10547,SMB,BFSI,Referral,Pune,3,2,0,0,3,919581,1
+L10548,SMB,Retail,Partner,Chennai,2,1,0,2,41,430324,0
+L10549,Mid-Market,Healthcare,LinkedIn,Hyderabad,4,1,1,2,4,244971,1
+L10550,SMB,SaaS,Google Ads,Kolkata,3,1,0,2,21,402694,1
+L10551,SMB,Retail,Referral,Delhi NCR,4,1,0,1,8,409264,0
+L10552,SMB,Manufacturing,Google Ads,Delhi NCR,2,1,0,0,0,918983,0
+L10553,SMB,Manufacturing,Partner,Delhi NCR,8,1,0,3,15,90193,1
+L10554,Enterprise,Manufacturing,Webinar,Hyderabad,2,0,0,7,26,642094,1
+L10555,SMB,Education,Referral,Pune,3,0,0,3,32,774327,0
+L10556,SMB,SaaS,Referral,Mumbai,2,1,1,1,14,768454,1
+L10557,SMB,BFSI,Webinar,Mumbai,0,2,0,1,22,213374,1
+L10558,Mid-Market,Education,Referral,Kolkata,3,0,0,1,8,427425,0
+L10559,Mid-Market,SaaS,LinkedIn,Chennai,3,0,0,0,32,358498,0
+L10560,Mid-Market,Retail,Referral,Pune,3,0,1,2,7,421826,1
+L10561,SMB,Retail,Website,Hyderabad,1,2,0,1,38,109900,0
+L10562,SMB,Healthcare,LinkedIn,Bengaluru,1,0,0,2,8,106221,1
+L10563,Enterprise,BFSI,Referral,Delhi NCR,3,1,1,3,29,48550,1
+L10564,Mid-Market,Healthcare,Webinar,Mumbai,8,2,0,5,14,967575,1
+L10565,Mid-Market,Healthcare,Webinar,Kolkata,2,2,0,2,44,431374,0
+L10566,Mid-Market,Healthcare,LinkedIn,Bengaluru,1,3,0,0,12,247259,1
+L10567,Mid-Market,BFSI,Referral,Pune,6,3,0,1,42,802742,1
+L10568,SMB,Retail,Website,Pune,3,1,1,2,37,506910,1
+L10569,SMB,Healthcare,Webinar,Bengaluru,3,0,0,2,21,380428,1
+L10570,Mid-Market,Education,LinkedIn,Mumbai,1,1,1,0,22,136745,0
+L10571,SMB,BFSI,Webinar,Pune,3,1,0,1,15,401381,1
+L10572,Enterprise,Education,Partner,Delhi NCR,7,2,1,1,19,655779,1
+L10573,Mid-Market,BFSI,Webinar,Hyderabad,3,0,1,1,20,632848,1
+L10574,Mid-Market,Healthcare,LinkedIn,Kolkata,0,2,0,1,6,406103,0
+L10575,Enterprise,BFSI,Partner,Pune,4,0,0,0,14,622720,0
+L10576,Mid-Market,Manufacturing,Webinar,Chennai,2,0,0,0,39,773470,0
+L10577,Enterprise,Manufacturing,Google Ads,Delhi NCR,4,0,1,4,44,932036,1
+L10578,Mid-Market,Healthcare,Partner,Mumbai,2,0,0,1,2,540169,0
+L10579,Enterprise,Education,Partner,Mumbai,5,1,0,1,32,247089,0
+L10580,SMB,Retail,Website,Bengaluru,3,0,1,2,10,151242,1
+L10581,Mid-Market,Healthcare,Partner,Mumbai,3,2,1,0,29,178757,1
+L10582,Mid-Market,Healthcare,Webinar,Kolkata,3,2,0,2,27,35471,1
+L10583,SMB,Manufacturing,LinkedIn,Mumbai,2,0,1,0,39,569149,1
+L10584,SMB,Retail,LinkedIn,Pune,1,3,0,3,31,232137,1
+L10585,Enterprise,Healthcare,Webinar,Pune,0,2,0,1,37,245438,0
+L10586,Mid-Market,Retail,LinkedIn,Pune,2,1,1,1,36,731237,1
+L10587,SMB,Healthcare,Referral,Mumbai,1,0,0,0,29,336688,0
+L10588,SMB,Manufacturing,Webinar,Bengaluru,1,2,0,5,18,832801,1
+L10589,SMB,Education,Google Ads,Pune,5,1,1,1,15,158612,1
+L10590,SMB,Healthcare,Partner,Bengaluru,1,1,0,1,15,357801,0
+L10591,Enterprise,SaaS,Website,Pune,4,1,0,3,16,75290,1
+L10592,SMB,Healthcare,LinkedIn,Delhi NCR,2,1,0,1,12,547526,1
+L10593,SMB,Retail,Partner,Delhi NCR,0,2,0,0,13,146725,0
+L10594,Mid-Market,SaaS,Google Ads,Chennai,6,0,0,3,25,259012,1
+L10595,SMB,Manufacturing,LinkedIn,Pune,0,1,1,1,12,742093,1
+L10596,SMB,SaaS,LinkedIn,Delhi NCR,5,2,0,0,15,883432,1
+L10597,Mid-Market,Retail,Referral,Kolkata,3,2,0,2,31,556800,1
+L10598,Mid-Market,BFSI,Google Ads,Delhi NCR,4,0,0,3,14,966076,1
+L10599,Enterprise,Education,LinkedIn,Kolkata,1,1,0,0,4,762754,1
+L10600,Mid-Market,Healthcare,Google Ads,Chennai,4,0,0,2,0,759116,0
+L10601,SMB,Education,Referral,Kolkata,1,1,1,0,34,990839,1
+L10602,Mid-Market,Manufacturing,Google Ads,Kolkata,3,1,1,2,42,111664,1
+L10603,Enterprise,BFSI,Website,Bengaluru,1,1,0,0,30,251391,0
+L10604,Mid-Market,Retail,Google Ads,Chennai,4,1,1,0,2,451190,1
+L10605,Enterprise,BFSI,Partner,Mumbai,1,2,0,1,25,627876,1
+L10606,Mid-Market,BFSI,Website,Hyderabad,2,2,0,1,12,990743,0
+L10607,Enterprise,Retail,LinkedIn,Mumbai,0,1,0,1,14,121539,1
+L10608,SMB,Manufacturing,Webinar,Hyderabad,3,3,0,2,41,248650,0
+L10609,Mid-Market,Retail,Google Ads,Kolkata,3,1,1,3,37,315725,1
+L10610,SMB,BFSI,Webinar,Hyderabad,3,1,0,1,33,678709,0
+L10611,Mid-Market,Education,Google Ads,Delhi NCR,2,0,1,0,22,952896,0
+L10612,Mid-Market,Education,Webinar,Bengaluru,3,2,0,0,26,940099,1
+L10613,Enterprise,Manufacturing,Google Ads,Chennai,2,3,0,0,41,753948,0
+L10614,Enterprise,Retail,Website,Hyderabad,3,0,0,2,29,778873,1
+L10615,SMB,SaaS,Webinar,Hyderabad,7,0,1,2,26,430158,1
+L10616,Mid-Market,BFSI,Referral,Hyderabad,3,1,0,1,4,618638,0
+L10617,Mid-Market,Education,Website,Bengaluru,5,3,0,4,44,191651,1
+L10618,SMB,SaaS,Referral,Pune,3,2,0,4,36,519037,0
+L10619,SMB,Retail,Referral,Pune,3,0,0,0,16,310335,1
+L10620,SMB,Education,Website,Kolkata,4,0,0,0,11,930594,0
+L10621,Mid-Market,Education,Partner,Pune,3,2,1,3,43,383326,1
+L10622,Mid-Market,Healthcare,LinkedIn,Kolkata,2,0,0,1,43,409865,0
+L10623,Enterprise,SaaS,LinkedIn,Chennai,4,1,0,3,18,417713,1
+L10624,SMB,Education,Referral,Delhi NCR,3,0,0,1,10,903737,1
+L10625,Enterprise,Education,Webinar,Bengaluru,4,0,0,0,35,934212,0
+L10626,SMB,Retail,Webinar,Bengaluru,0,4,0,1,28,445276,0
+L10627,Mid-Market,Education,Webinar,Delhi NCR,4,1,0,1,40,995816,1
+L10628,SMB,SaaS,LinkedIn,Mumbai,6,1,0,2,24,762631,1
+L10629,Mid-Market,Retail,Partner,Chennai,3,0,0,2,24,850289,1
+L10630,Mid-Market,SaaS,Webinar,Bengaluru,2,0,0,0,6,917821,0
+L10631,Enterprise,Education,Referral,Mumbai,0,0,0,2,27,349206,0
+L10632,Enterprise,BFSI,Google Ads,Bengaluru,2,0,0,0,16,561876,0
+L10633,SMB,Education,Website,Mumbai,2,1,1,3,9,302951,1
+L10634,SMB,Retail,Webinar,Mumbai,3,2,1,2,35,327132,1
+L10635,SMB,SaaS,Partner,Delhi NCR,3,2,0,2,15,477718,0
+L10636,SMB,SaaS,Referral,Chennai,1,0,0,1,9,74712,0
+L10637,Mid-Market,Healthcare,Google Ads,Chennai,7,1,0,2,43,234783,0
+L10638,Mid-Market,BFSI,Referral,Hyderabad,2,1,1,1,43,814028,0
+L10639,Mid-Market,SaaS,Website,Pune,2,3,0,1,22,186635,1
+L10640,Enterprise,Education,Google Ads,Kolkata,2,0,0,2,13,631459,0
+L10641,Mid-Market,Manufacturing,Webinar,Chennai,4,2,0,2,7,771497,1
+L10642,Mid-Market,Healthcare,Partner,Delhi NCR,1,0,0,4,28,281469,0
+L10643,SMB,Manufacturing,Partner,Kolkata,3,2,0,1,27,471864,0
+L10644,SMB,Healthcare,Referral,Delhi NCR,2,1,0,1,27,880476,1
+L10645,Mid-Market,Healthcare,Partner,Delhi NCR,2,0,1,2,34,839593,1
+L10646,Enterprise,SaaS,Google Ads,Bengaluru,4,2,1,2,21,922295,1
+L10647,SMB,Retail,Google Ads,Chennai,3,1,0,0,30,637629,1
+L10648,Mid-Market,BFSI,Google Ads,Delhi NCR,2,0,0,0,29,889986,0
+L10649,Mid-Market,Education,Partner,Bengaluru,5,1,1,1,35,413499,1
+L10650,SMB,Manufacturing,Webinar,Mumbai,6,0,1,2,33,611479,1
+L10651,SMB,Education,Website,Bengaluru,4,1,1,2,1,675553,1
+L10652,Enterprise,Education,Website,Kolkata,4,2,1,2,27,977167,1
+L10653,Mid-Market,Education,Referral,Bengaluru,0,1,0,0,43,384025,0
+L10654,SMB,Healthcare,Google Ads,Mumbai,3,0,0,4,25,877935,1
+L10655,Enterprise,Education,Webinar,Delhi NCR,0,1,0,1,23,521590,1
+L10656,SMB,Retail,Referral,Mumbai,6,3,0,0,27,126653,0
+L10657,Enterprise,SaaS,Google Ads,Delhi NCR,4,0,0,0,25,664157,0
+L10658,SMB,Manufacturing,Partner,Pune,3,2,0,2,18,981578,1
+L10659,Mid-Market,BFSI,Referral,Bengaluru,4,1,0,3,44,467062,0
+L10660,SMB,SaaS,Referral,Hyderabad,4,0,0,3,3,560086,1
+L10661,SMB,Healthcare,Google Ads,Chennai,5,2,0,0,36,929116,1
+L10662,Enterprise,BFSI,Referral,Pune,2,2,0,1,7,922035,1
+L10663,SMB,SaaS,Partner,Mumbai,4,0,0,1,9,415081,0
+L10664,SMB,Healthcare,Partner,Bengaluru,2,3,0,2,27,766332,0
+L10665,SMB,Manufacturing,Google Ads,Bengaluru,6,3,0,0,28,640198,0
+L10666,Mid-Market,Retail,Referral,Chennai,4,0,0,1,41,656377,0
+L10667,Mid-Market,Manufacturing,Google Ads,Bengaluru,2,1,0,1,13,727499,1
+L10668,Enterprise,Education,LinkedIn,Delhi NCR,4,0,0,2,1,343505,1
+L10669,SMB,SaaS,Referral,Chennai,1,1,1,3,11,322203,1
+L10670,SMB,Education,LinkedIn,Bengaluru,1,3,0,6,24,51354,1
+L10671,SMB,BFSI,Website,Delhi NCR,1,3,0,3,16,859940,0
+L10672,Mid-Market,Education,Website,Pune,0,0,1,2,11,294817,1
+L10673,Enterprise,Education,Google Ads,Mumbai,2,1,0,0,41,682397,0
+L10674,Mid-Market,Manufacturing,Website,Kolkata,2,1,1,1,25,693674,1
+L10675,Mid-Market,Education,Google Ads,Chennai,4,0,0,2,30,710933,1
+L10676,SMB,Retail,Referral,Bengaluru,1,2,0,0,33,866537,0
+L10677,Enterprise,Education,Referral,Hyderabad,0,3,0,0,18,871175,1
+L10678,Mid-Market,Education,Webinar,Hyderabad,2,1,0,1,33,27287,0
+L10679,SMB,Retail,Google Ads,Pune,2,1,1,3,43,844101,0
+L10680,SMB,Healthcare,Webinar,Delhi NCR,1,2,0,0,32,227774,0
+L10681,SMB,SaaS,Webinar,Bengaluru,3,2,0,2,13,654263,1
+L10682,SMB,SaaS,Website,Mumbai,2,0,0,2,35,681241,0
+L10683,SMB,Healthcare,LinkedIn,Pune,4,1,1,0,10,77351,1
+L10684,SMB,BFSI,Google Ads,Delhi NCR,3,2,0,1,3,301544,0
+L10685,Mid-Market,Retail,Partner,Hyderabad,5,0,0,3,19,912386,1
+L10686,SMB,Healthcare,Website,Chennai,3,2,1,0,22,163160,1
+L10687,SMB,Manufacturing,Website,Kolkata,2,0,0,1,21,251079,0
+L10688,Enterprise,Retail,Partner,Bengaluru,4,3,0,3,11,104887,1
+L10689,Mid-Market,Retail,Partner,Delhi NCR,0,3,0,1,12,187586,1
+L10690,Mid-Market,Education,LinkedIn,Chennai,0,2,0,1,41,646932,0
+L10691,SMB,BFSI,Referral,Delhi NCR,2,0,1,2,13,845252,1
+L10692,Enterprise,Retail,Google Ads,Delhi NCR,3,1,0,1,35,604988,0
+L10693,SMB,Education,LinkedIn,Kolkata,2,2,1,1,11,302452,1
+L10694,SMB,Healthcare,LinkedIn,Kolkata,3,0,0,1,4,862148,0
+L10695,Enterprise,Education,Referral,Pune,6,0,0,2,2,383158,1
+L10696,Mid-Market,Healthcare,Google Ads,Chennai,2,2,0,3,10,331966,0
+L10697,Mid-Market,SaaS,LinkedIn,Delhi NCR,1,1,0,1,37,517867,1
+L10698,Mid-Market,Healthcare,Referral,Delhi NCR,1,0,0,2,20,158300,1
+L10699,Mid-Market,SaaS,LinkedIn,Bengaluru,4,2,0,1,31,372414,0
+L10700,SMB,SaaS,Webinar,Delhi NCR,1,2,0,1,43,804176,0
+L10701,SMB,Education,Website,Kolkata,7,1,1,0,2,618076,1
+L10702,SMB,BFSI,LinkedIn,Delhi NCR,1,1,0,2,4,988481,0
+L10703,SMB,Manufacturing,LinkedIn,Hyderabad,3,1,0,4,41,781320,1
+L10704,Enterprise,Education,Partner,Chennai,3,2,0,1,25,376379,1
+L10705,SMB,SaaS,Partner,Chennai,2,1,0,2,27,772548,1
+L10706,Mid-Market,Manufacturing,Google Ads,Mumbai,0,1,0,2,15,868715,0
+L10707,Mid-Market,BFSI,Website,Hyderabad,2,2,1,2,37,640057,1
+L10708,Mid-Market,Manufacturing,Webinar,Hyderabad,1,1,0,1,29,768481,1
+L10709,SMB,BFSI,Referral,Chennai,1,1,0,2,11,515760,0
+L10710,SMB,Education,Partner,Bengaluru,6,2,0,4,29,913795,1
+L10711,Enterprise,SaaS,Referral,Mumbai,6,2,0,2,0,256677,1
+L10712,Mid-Market,SaaS,Partner,Chennai,2,0,0,0,10,438763,0
+L10713,Mid-Market,Education,Webinar,Kolkata,3,0,0,3,9,272563,0
+L10714,Enterprise,Retail,LinkedIn,Hyderabad,4,2,0,1,35,123768,1
+L10715,Mid-Market,Retail,Webinar,Delhi NCR,2,0,0,1,33,625596,0
+L10716,SMB,Healthcare,LinkedIn,Hyderabad,0,2,1,0,4,140397,1
+L10717,Mid-Market,Healthcare,Referral,Kolkata,5,0,0,0,40,245494,0
+L10718,SMB,BFSI,LinkedIn,Kolkata,4,0,0,1,36,769118,0
+L10719,Mid-Market,Retail,Webinar,Bengaluru,4,0,0,2,19,259986,0
+L10720,Enterprise,SaaS,LinkedIn,Mumbai,5,1,0,3,9,866748,1
+L10721,Mid-Market,Retail,Google Ads,Pune,6,0,0,1,18,72910,0
+L10722,SMB,BFSI,Google Ads,Chennai,2,1,0,1,26,470591,0
+L10723,SMB,SaaS,Webinar,Kolkata,6,1,0,1,28,90500,1
+L10724,Enterprise,Healthcare,Partner,Delhi NCR,4,0,0,2,15,83081,1
+L10725,SMB,BFSI,Website,Bengaluru,2,0,0,0,4,796179,0
+L10726,SMB,Retail,Partner,Hyderabad,1,3,1,1,27,90038,1
+L10727,SMB,SaaS,Website,Delhi NCR,5,3,1,1,31,894954,1
+L10728,SMB,SaaS,Google Ads,Kolkata,4,4,1,1,12,608635,1
+L10729,SMB,Retail,Referral,Delhi NCR,3,1,0,4,28,495484,1
+L10730,Mid-Market,Healthcare,Google Ads,Pune,5,0,0,2,25,920658,1
+L10731,SMB,Education,Webinar,Kolkata,4,1,0,0,22,402987,0
+L10732,SMB,Retail,Partner,Pune,5,1,0,2,0,414593,1
+L10733,SMB,Education,Referral,Chennai,4,0,1,2,13,424689,1
+L10734,SMB,Manufacturing,Partner,Mumbai,3,0,0,2,16,659354,1
+L10735,SMB,Healthcare,LinkedIn,Chennai,2,1,0,4,37,851076,1
+L10736,Mid-Market,SaaS,LinkedIn,Bengaluru,1,1,1,2,37,553457,1
+L10737,SMB,Retail,Referral,Delhi NCR,4,3,0,2,39,299033,1
+L10738,SMB,Manufacturing,Google Ads,Bengaluru,0,0,0,5,20,892513,0
+L10739,SMB,Healthcare,Webinar,Bengaluru,2,2,0,1,14,608975,0
+L10740,SMB,Healthcare,Webinar,Hyderabad,5,2,0,2,22,836577,0
+L10741,SMB,Manufacturing,LinkedIn,Mumbai,4,1,1,1,35,446470,0
+L10742,SMB,SaaS,LinkedIn,Hyderabad,2,0,0,2,27,219364,0
+L10743,Enterprise,Retail,Partner,Bengaluru,4,3,0,1,27,945883,0
+L10744,SMB,Education,Referral,Bengaluru,3,2,0,0,19,685604,0
+L10745,Mid-Market,Manufacturing,LinkedIn,Pune,4,0,1,3,31,325083,1
+L10746,Mid-Market,Healthcare,Partner,Bengaluru,0,2,1,0,39,851315,0
+L10747,SMB,Manufacturing,Referral,Chennai,2,1,1,1,30,33845,0
+L10748,SMB,BFSI,Partner,Mumbai,2,2,1,1,18,931993,1
+L10749,Mid-Market,Healthcare,Partner,Kolkata,0,2,0,2,37,589159,0
+L10750,Enterprise,Education,Partner,Bengaluru,2,1,0,2,42,600178,1
+L10751,SMB,Manufacturing,Google Ads,Delhi NCR,3,0,1,3,35,38049,1
+L10752,SMB,SaaS,Webinar,Mumbai,2,0,0,1,39,196513,0
+L10753,SMB,Retail,Partner,Chennai,1,1,0,2,11,727600,1
+L10754,SMB,Retail,LinkedIn,Kolkata,3,0,0,0,18,569276,1
+L10755,Mid-Market,Education,Website,Mumbai,5,0,0,0,11,149467,1
+L10756,SMB,Education,LinkedIn,Pune,4,1,0,0,16,674173,0
+L10757,SMB,Education,Google Ads,Pune,2,1,1,1,33,752761,1
+L10758,Enterprise,Retail,Google Ads,Delhi NCR,4,1,0,2,30,290676,1
+L10759,SMB,Healthcare,Website,Hyderabad,3,1,0,0,0,697132,1
+L10760,SMB,Healthcare,Google Ads,Pune,4,1,0,2,33,973676,1
+L10761,Mid-Market,SaaS,LinkedIn,Kolkata,4,0,0,0,8,495393,1
+L10762,SMB,Healthcare,Google Ads,Chennai,2,0,0,2,8,248593,0
+L10763,SMB,Healthcare,Google Ads,Delhi NCR,4,0,0,3,24,962890,0
+L10764,SMB,SaaS,Google Ads,Mumbai,2,3,0,1,10,913568,1
+L10765,Enterprise,Manufacturing,Referral,Hyderabad,2,1,0,1,43,470425,0
+L10766,SMB,Retail,Referral,Mumbai,4,1,0,4,6,439551,1
+L10767,SMB,Healthcare,Webinar,Hyderabad,2,2,0,0,6,838068,1
+L10768,SMB,Education,Webinar,Delhi NCR,3,2,0,1,34,25540,0
+L10769,SMB,Healthcare,Webinar,Delhi NCR,6,0,0,0,12,329495,1
+L10770,Mid-Market,Education,Referral,Delhi NCR,1,2,0,2,32,554706,1
+L10771,SMB,Retail,Referral,Bengaluru,4,1,0,3,30,662693,1
+L10772,Mid-Market,SaaS,LinkedIn,Chennai,0,1,1,2,8,637578,1
+L10773,Mid-Market,Manufacturing,Google Ads,Mumbai,4,0,0,3,26,386271,1
+L10774,Enterprise,BFSI,Website,Kolkata,2,0,0,2,24,872629,1
+L10775,SMB,Retail,Referral,Mumbai,5,2,0,0,4,658389,0
+L10776,Enterprise,Manufacturing,LinkedIn,Delhi NCR,5,0,0,1,34,552049,1
+L10777,Mid-Market,Retail,Google Ads,Bengaluru,2,2,0,2,38,940201,0
+L10778,SMB,Education,Partner,Chennai,2,1,0,2,42,116776,0
+L10779,Mid-Market,Healthcare,Partner,Delhi NCR,6,1,0,5,3,717074,1
+L10780,Enterprise,SaaS,Referral,Delhi NCR,2,2,0,1,8,928643,1
+L10781,SMB,Manufacturing,Website,Chennai,6,3,1,1,37,670279,1
+L10782,Enterprise,Education,LinkedIn,Pune,1,2,0,1,13,576220,1
+L10783,SMB,BFSI,Website,Bengaluru,3,0,1,2,28,380296,0
+L10784,Mid-Market,Education,Webinar,Chennai,5,0,1,1,15,289742,1
+L10785,Enterprise,Education,Partner,Chennai,2,1,0,0,9,557240,1
+L10786,SMB,SaaS,Google Ads,Bengaluru,5,0,0,1,28,901387,0
+L10787,Mid-Market,Manufacturing,LinkedIn,Hyderabad,5,1,0,2,9,475657,1
+L10788,SMB,SaaS,Website,Delhi NCR,2,1,0,2,6,142890,0
+L10789,Mid-Market,SaaS,Partner,Bengaluru,4,0,0,0,23,496530,0
+L10790,Mid-Market,Education,LinkedIn,Pune,3,1,0,2,8,120045,1
+L10791,SMB,Education,Website,Mumbai,5,2,0,4,8,937692,1
+L10792,SMB,SaaS,LinkedIn,Kolkata,1,0,0,2,35,546633,0
+L10793,SMB,BFSI,LinkedIn,Kolkata,6,1,0,0,23,233537,0
+L10794,SMB,Retail,Google Ads,Mumbai,5,0,0,1,24,634262,1
+L10795,SMB,SaaS,Partner,Bengaluru,3,3,1,1,6,549322,1
+L10796,SMB,Education,LinkedIn,Mumbai,5,0,0,0,7,523185,0
+L10797,SMB,Education,Webinar,Hyderabad,4,1,0,0,17,602188,0
+L10798,SMB,Retail,Website,Delhi NCR,2,0,0,0,17,930767,1
+L10799,Mid-Market,BFSI,Website,Bengaluru,1,0,1,0,20,859609,0
+L10800,Mid-Market,Healthcare,Website,Hyderabad,3,0,0,0,6,281250,0
+L10801,Mid-Market,BFSI,Partner,Pune,8,1,0,2,40,258769,0
+L10802,SMB,Healthcare,Google Ads,Pune,3,1,1,1,16,990479,1
+L10803,Enterprise,Education,Webinar,Mumbai,4,1,0,1,36,653760,0
+L10804,Mid-Market,SaaS,Website,Chennai,3,3,0,1,18,43865,0
+L10805,SMB,Manufacturing,Website,Pune,2,2,0,2,21,541354,1
+L10806,SMB,Education,Partner,Chennai,5,1,0,1,5,140570,1
+L10807,Mid-Market,Manufacturing,Website,Hyderabad,0,1,0,3,30,54077,1
+L10808,SMB,Manufacturing,Website,Kolkata,1,2,0,2,2,206034,0
+L10809,Mid-Market,BFSI,Google Ads,Bengaluru,2,2,0,2,33,273249,1
+L10810,Enterprise,Manufacturing,Google Ads,Chennai,5,1,0,2,39,102586,1
+L10811,SMB,Retail,LinkedIn,Mumbai,6,1,1,2,16,839626,1
+L10812,SMB,Manufacturing,Referral,Mumbai,6,3,1,1,39,452262,1
+L10813,Enterprise,Manufacturing,Webinar,Hyderabad,2,2,0,3,31,563121,1
+L10814,Mid-Market,Education,Referral,Hyderabad,6,0,0,2,0,868737,0
+L10815,SMB,Manufacturing,Referral,Chennai,4,1,0,1,9,841205,0
+L10816,Enterprise,SaaS,Website,Bengaluru,5,2,0,4,28,825240,1
+L10817,Enterprise,BFSI,Referral,Kolkata,4,2,0,1,31,216388,1
+L10818,Mid-Market,Education,Webinar,Bengaluru,2,3,0,1,4,751137,1
+L10819,Mid-Market,SaaS,Google Ads,Hyderabad,0,0,0,3,30,995817,0
+L10820,SMB,BFSI,Partner,Kolkata,7,1,0,2,36,32224,0
+L10821,SMB,Retail,Website,Hyderabad,0,0,0,2,4,871398,0
+L10822,Mid-Market,BFSI,Website,Pune,4,0,0,2,39,869063,1
+L10823,SMB,SaaS,Google Ads,Kolkata,5,2,0,0,23,845311,1
+L10824,Mid-Market,Education,LinkedIn,Kolkata,6,0,0,3,27,411586,1
+L10825,Enterprise,Retail,Google Ads,Hyderabad,3,2,0,0,2,218962,1
+L10826,SMB,Education,Partner,Bengaluru,6,1,0,2,27,738346,0
+L10827,Mid-Market,Healthcare,Referral,Mumbai,4,1,0,1,20,632481,1
+L10828,SMB,Education,Google Ads,Hyderabad,4,1,0,2,16,733745,1
+L10829,Enterprise,Retail,Webinar,Kolkata,3,1,1,2,35,274540,1
+L10830,SMB,SaaS,Website,Hyderabad,5,2,1,0,11,198083,1
+L10831,Mid-Market,Education,Partner,Bengaluru,2,2,0,0,2,904045,1
+L10832,Mid-Market,BFSI,LinkedIn,Delhi NCR,4,0,0,1,22,527509,0
+L10833,SMB,Manufacturing,Webinar,Bengaluru,5,1,0,2,33,855025,1
+L10834,Mid-Market,Retail,Google Ads,Mumbai,2,2,0,2,6,928026,1
+L10835,Mid-Market,Healthcare,Website,Kolkata,3,2,0,3,44,472794,1
+L10836,Mid-Market,Retail,Webinar,Hyderabad,1,2,0,2,30,281472,0
+L10837,Mid-Market,Education,LinkedIn,Delhi NCR,3,4,0,2,42,898455,1
+L10838,Enterprise,Education,Google Ads,Delhi NCR,3,1,0,4,21,722152,1
+L10839,SMB,Manufacturing,Partner,Chennai,2,0,0,4,5,674335,1
+L10840,Mid-Market,Education,Partner,Kolkata,2,1,0,0,7,959099,0
+L10841,SMB,Healthcare,Partner,Chennai,3,6,0,1,22,265116,1
+L10842,Mid-Market,BFSI,Referral,Delhi NCR,2,2,0,3,26,376615,0
+L10843,Mid-Market,BFSI,Google Ads,Delhi NCR,5,0,0,1,33,63039,0
+L10844,SMB,Healthcare,LinkedIn,Mumbai,0,0,0,2,35,402942,1
+L10845,SMB,Healthcare,Partner,Chennai,3,1,0,1,34,460359,0
+L10846,Enterprise,Healthcare,Referral,Chennai,2,2,0,4,26,466248,1
+L10847,SMB,Education,Webinar,Chennai,5,4,0,0,0,172128,1
+L10848,Mid-Market,Healthcare,Referral,Delhi NCR,2,1,1,2,23,813813,1
+L10849,SMB,Manufacturing,Webinar,Mumbai,4,0,0,2,36,502040,0
+L10850,Enterprise,Healthcare,LinkedIn,Kolkata,6,1,0,3,38,453302,0
+L10851,SMB,Manufacturing,Webinar,Kolkata,3,1,0,3,37,867333,0
+L10852,SMB,Healthcare,Website,Chennai,2,1,0,1,0,499089,1
+L10853,Enterprise,SaaS,Website,Delhi NCR,1,0,0,2,19,894851,1
+L10854,Enterprise,SaaS,Referral,Delhi NCR,4,1,1,0,27,241759,1
+L10855,SMB,BFSI,Referral,Delhi NCR,4,1,0,2,11,854376,0
+L10856,SMB,SaaS,Webinar,Pune,4,0,1,0,18,988636,1
+L10857,Mid-Market,Retail,Referral,Chennai,4,0,0,1,4,756700,1
+L10858,Enterprise,BFSI,Website,Pune,1,3,0,2,8,895045,1
+L10859,SMB,BFSI,LinkedIn,Mumbai,5,1,1,3,0,746667,1
+L10860,Mid-Market,Healthcare,Referral,Chennai,1,0,0,1,44,610247,0
+L10861,Mid-Market,Manufacturing,Google Ads,Delhi NCR,1,1,1,1,38,769679,1
+L10862,Mid-Market,Education,Google Ads,Chennai,3,1,0,1,18,961546,1
+L10863,Mid-Market,Education,LinkedIn,Kolkata,1,1,0,1,0,614907,0
+L10864,Mid-Market,Retail,Google Ads,Chennai,0,1,0,2,15,694822,0
+L10865,SMB,SaaS,Google Ads,Kolkata,9,2,0,2,19,102218,1
+L10866,Enterprise,SaaS,Webinar,Pune,1,0,1,6,7,960127,1
+L10867,Enterprise,Manufacturing,Google Ads,Hyderabad,4,0,0,2,29,783280,1
+L10868,Mid-Market,SaaS,Webinar,Bengaluru,4,0,0,3,44,182497,1
+L10869,SMB,Education,LinkedIn,Kolkata,4,0,0,2,37,307454,1
+L10870,SMB,Manufacturing,Webinar,Pune,3,0,0,2,38,244820,0
+L10871,Mid-Market,Manufacturing,Website,Mumbai,9,4,1,1,37,336621,1
+L10872,SMB,Education,Website,Kolkata,3,4,1,3,3,888052,1
+L10873,Enterprise,BFSI,Partner,Delhi NCR,7,1,0,1,24,477626,0
+L10874,SMB,Manufacturing,Referral,Pune,4,0,0,2,25,434377,1
+L10875,Mid-Market,Healthcare,Google Ads,Mumbai,7,1,1,1,4,784500,1
+L10876,Enterprise,Retail,Google Ads,Pune,3,0,0,1,6,386878,1
+L10877,SMB,Retail,Webinar,Bengaluru,3,0,0,1,25,888685,0
+L10878,SMB,Education,LinkedIn,Hyderabad,1,0,1,0,32,760476,1
+L10879,Mid-Market,Education,LinkedIn,Pune,2,2,0,2,9,275584,1
+L10880,Mid-Market,Education,Website,Chennai,6,1,1,0,21,639567,1
+L10881,SMB,SaaS,Partner,Bengaluru,7,2,0,2,3,495641,1
+L10882,Mid-Market,Manufacturing,LinkedIn,Kolkata,5,1,1,1,4,360469,1
+L10883,Enterprise,Retail,Google Ads,Hyderabad,5,3,0,0,26,908649,0
+L10884,SMB,SaaS,Referral,Mumbai,4,3,0,3,25,412914,1
+L10885,SMB,Healthcare,Website,Delhi NCR,5,1,0,0,33,138812,0
+L10886,SMB,SaaS,Referral,Mumbai,1,0,0,2,40,423174,0
+L10887,SMB,Education,Website,Pune,4,1,0,1,8,528872,1
+L10888,SMB,SaaS,LinkedIn,Hyderabad,7,0,1,3,15,148173,1
+L10889,SMB,SaaS,Website,Bengaluru,4,4,1,2,38,749139,1
+L10890,Mid-Market,Manufacturing,Webinar,Hyderabad,4,1,1,1,2,248815,1
+L10891,SMB,SaaS,Google Ads,Chennai,1,0,0,1,37,115113,0
+L10892,Enterprise,Retail,Partner,Pune,4,1,0,0,42,549092,0
+L10893,SMB,Healthcare,Referral,Delhi NCR,2,1,0,0,4,181943,0
+L10894,SMB,Education,LinkedIn,Delhi NCR,3,0,0,1,6,787281,1
+L10895,Mid-Market,Manufacturing,Google Ads,Hyderabad,3,0,0,1,30,91700,1
+L10896,Enterprise,Retail,Partner,Bengaluru,3,1,0,2,21,433572,1
+L10897,SMB,Retail,Google Ads,Chennai,4,1,0,1,44,75443,0
+L10898,SMB,Retail,Website,Pune,4,1,0,1,24,398768,0
+L10899,SMB,BFSI,LinkedIn,Chennai,2,1,0,0,29,934954,0
+L10900,Mid-Market,Manufacturing,Partner,Pune,6,0,0,0,10,659253,1
+L10901,SMB,Retail,Google Ads,Bengaluru,2,1,0,5,14,546771,1
+L10902,SMB,BFSI,Partner,Pune,1,1,1,0,7,178322,1
+L10903,SMB,Education,Google Ads,Pune,2,0,1,2,6,330027,1
+L10904,Mid-Market,Retail,Website,Chennai,3,0,0,0,5,396231,0
+L10905,Enterprise,Retail,Partner,Mumbai,4,2,1,2,40,589154,1
+L10906,Mid-Market,Education,Webinar,Pune,3,1,1,2,3,227932,1
+L10907,Mid-Market,Retail,Webinar,Mumbai,3,3,0,3,23,999947,1
+L10908,SMB,Education,Partner,Chennai,5,2,0,1,22,660355,1
+L10909,SMB,SaaS,LinkedIn,Chennai,2,0,0,0,2,329013,0
+L10910,SMB,Healthcare,Partner,Pune,2,3,0,0,37,134554,0
+L10911,Mid-Market,SaaS,LinkedIn,Kolkata,3,2,0,0,22,605125,1
+L10912,Enterprise,SaaS,Partner,Hyderabad,6,1,0,6,5,461627,0
+L10913,Enterprise,Healthcare,LinkedIn,Delhi NCR,3,1,1,0,5,682052,1
+L10914,Enterprise,Manufacturing,Google Ads,Pune,2,1,0,0,31,606277,1
+L10915,Enterprise,Healthcare,Webinar,Chennai,0,2,0,1,27,649349,0
+L10916,Enterprise,Healthcare,Website,Delhi NCR,2,0,1,1,18,837833,0
+L10917,SMB,Retail,Website,Delhi NCR,1,1,1,3,18,537047,0
+L10918,SMB,Education,Partner,Mumbai,2,1,0,1,1,731437,1
+L10919,SMB,Education,Website,Chennai,3,1,1,2,1,375055,1
+L10920,Mid-Market,Healthcare,Google Ads,Hyderabad,2,1,1,5,24,944291,1
+L10921,SMB,Manufacturing,Partner,Kolkata,3,0,0,0,16,422770,1
+L10922,Enterprise,BFSI,Google Ads,Kolkata,3,1,1,5,11,687881,0
+L10923,Mid-Market,SaaS,Referral,Hyderabad,6,2,0,0,17,998491,1
+L10924,Mid-Market,Retail,Referral,Pune,3,0,0,2,27,365459,0
+L10925,SMB,Healthcare,Google Ads,Bengaluru,2,1,0,2,13,124049,0
+L10926,SMB,Manufacturing,Google Ads,Delhi NCR,3,0,0,3,15,250930,1
+L10927,SMB,Retail,Google Ads,Bengaluru,2,1,0,1,12,262695,1
+L10928,Enterprise,Manufacturing,Website,Pune,4,0,0,4,29,80167,1
+L10929,Mid-Market,Manufacturing,Google Ads,Mumbai,1,1,0,1,2,555292,1
+L10930,Mid-Market,Retail,Webinar,Mumbai,2,0,0,0,41,295647,0
+L10931,SMB,Manufacturing,Webinar,Delhi NCR,2,2,0,4,24,119633,1
+L10932,SMB,BFSI,Website,Chennai,3,0,1,0,11,158427,1
+L10933,SMB,SaaS,Webinar,Kolkata,3,1,0,0,34,291557,0
+L10934,Mid-Market,Healthcare,Webinar,Chennai,1,1,0,2,42,384994,0
+L10935,Mid-Market,BFSI,LinkedIn,Bengaluru,2,2,0,2,2,975112,1
+L10936,SMB,Manufacturing,Partner,Pune,4,0,1,1,9,710013,1
+L10937,Enterprise,BFSI,Google Ads,Kolkata,1,0,0,2,6,721865,1
+L10938,SMB,BFSI,Referral,Pune,3,0,0,0,3,699733,1
+L10939,Enterprise,Education,Webinar,Bengaluru,1,2,0,2,33,808144,0
+L10940,SMB,Manufacturing,Google Ads,Bengaluru,2,0,1,2,8,335212,1
+L10941,SMB,BFSI,Google Ads,Chennai,5,2,1,0,17,121885,1
+L10942,Enterprise,Education,LinkedIn,Hyderabad,2,2,1,2,36,520838,1
+L10943,SMB,BFSI,Partner,Chennai,4,1,0,3,27,26275,1
+L10944,SMB,Manufacturing,Partner,Kolkata,3,0,0,0,30,236352,0
+L10945,SMB,BFSI,Website,Delhi NCR,1,1,0,0,4,759180,0
+L10946,SMB,SaaS,Webinar,Chennai,1,2,0,3,43,515402,0
+L10947,Mid-Market,Retail,Website,Bengaluru,2,1,0,3,3,698393,1
+L10948,Enterprise,Healthcare,Referral,Hyderabad,4,0,1,1,31,522329,1
+L10949,Enterprise,Retail,Partner,Mumbai,1,1,1,0,28,554148,1
+L10950,SMB,Retail,LinkedIn,Bengaluru,2,1,0,1,18,318764,1
+L10951,Mid-Market,SaaS,Referral,Bengaluru,2,2,0,0,37,238061,1
+L10952,SMB,Retail,LinkedIn,Delhi NCR,2,2,0,2,40,277981,0
+L10953,SMB,Education,Webinar,Chennai,1,1,0,2,3,803102,1
+L10954,SMB,Healthcare,Referral,Mumbai,2,0,0,2,43,980085,0
+L10955,Enterprise,Manufacturing,Google Ads,Bengaluru,2,1,0,2,10,104794,0
+L10956,Enterprise,Education,Partner,Mumbai,2,2,0,0,35,548695,0
+L10957,Mid-Market,SaaS,Google Ads,Mumbai,5,0,0,3,36,483653,1
+L10958,Mid-Market,Healthcare,Webinar,Bengaluru,2,0,0,0,25,573024,0
+L10959,Mid-Market,Retail,Website,Kolkata,10,0,0,2,38,252072,1
+L10960,Mid-Market,Healthcare,LinkedIn,Kolkata,2,1,0,2,37,32599,1
+L10961,Mid-Market,Education,Partner,Bengaluru,3,2,0,1,23,223252,1
+L10962,SMB,Healthcare,Partner,Hyderabad,1,0,0,1,8,202294,0
+L10963,SMB,Education,Google Ads,Kolkata,2,0,1,1,19,76049,1
+L10964,SMB,SaaS,Referral,Mumbai,3,2,0,3,40,372706,0
+L10965,Enterprise,BFSI,LinkedIn,Kolkata,3,2,0,1,9,691810,1
+L10966,Mid-Market,Retail,Partner,Delhi NCR,1,1,0,3,44,966831,1
+L10967,Enterprise,Manufacturing,Webinar,Mumbai,6,1,0,1,8,665803,1
+L10968,SMB,Manufacturing,LinkedIn,Bengaluru,0,0,0,0,29,195860,0
+L10969,Mid-Market,BFSI,Google Ads,Delhi NCR,3,0,1,0,28,378122,1
+L10970,SMB,Retail,Google Ads,Chennai,2,2,1,2,8,320707,1
+L10971,SMB,Retail,Referral,Chennai,4,1,0,1,21,231857,0
+L10972,SMB,SaaS,Partner,Bengaluru,2,0,1,1,6,990403,1
+L10973,SMB,Retail,Website,Chennai,1,1,0,2,16,664244,0
+L10974,Enterprise,Education,LinkedIn,Chennai,2,2,0,2,43,494080,1
+L10975,SMB,SaaS,Website,Chennai,3,4,0,3,2,450815,1
+L10976,Mid-Market,Healthcare,Webinar,Chennai,6,0,0,1,39,335447,0
+L10977,SMB,Healthcare,Google Ads,Pune,4,1,0,1,30,431337,0
+L10978,SMB,Education,Partner,Delhi NCR,2,2,0,2,33,643499,0
+L10979,Mid-Market,Manufacturing,Google Ads,Kolkata,2,0,0,2,12,930008,1
+L10980,SMB,Healthcare,Website,Pune,3,2,1,3,42,508894,1
+L10981,Enterprise,BFSI,Referral,Kolkata,3,0,0,3,11,205344,1
+L10982,Mid-Market,SaaS,Website,Kolkata,2,3,1,2,22,958512,1
+L10983,Mid-Market,BFSI,Webinar,Mumbai,2,3,1,2,1,332110,1
+L10984,SMB,BFSI,Webinar,Bengaluru,6,1,1,1,39,106115,0
+L10985,SMB,BFSI,Partner,Mumbai,4,2,0,1,31,555558,0
+L10986,Enterprise,Retail,Referral,Delhi NCR,4,3,0,2,7,795784,1
+L10987,SMB,BFSI,LinkedIn,Kolkata,1,1,0,3,29,276159,1
+L10988,SMB,BFSI,Website,Kolkata,2,2,1,2,8,297109,1
+L10989,SMB,Education,Referral,Kolkata,7,2,0,2,19,307013,1
+L10990,Mid-Market,Healthcare,Referral,Kolkata,2,1,0,1,23,811502,0
+L10991,Mid-Market,Healthcare,Webinar,Pune,3,2,0,1,41,958458,0
+L10992,Mid-Market,Retail,Webinar,Hyderabad,2,1,0,1,14,851527,1
+L10993,Mid-Market,Manufacturing,Website,Kolkata,5,0,1,2,0,245494,1
+L10994,SMB,Education,LinkedIn,Hyderabad,4,1,0,0,19,852992,0
+L10995,Enterprise,BFSI,Google Ads,Pune,1,2,0,1,41,326895,0
+L10996,SMB,Retail,Referral,Mumbai,0,2,0,1,35,870028,1
+L10997,Mid-Market,Manufacturing,Website,Chennai,6,2,0,1,2,991608,1
+L10998,SMB,Healthcare,Partner,Chennai,2,0,0,3,2,725174,1
+L10999,Enterprise,Healthcare,Webinar,Pune,1,1,0,1,34,956233,0
+L11000,SMB,Retail,Google Ads,Hyderabad,1,2,0,1,32,163844,1
